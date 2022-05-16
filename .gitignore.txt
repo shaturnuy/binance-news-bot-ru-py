@@ -1,4 +1,0 @@
-config.py
-test.py
-*.json
-__pycache__
